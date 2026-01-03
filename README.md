@@ -1,7 +1,5 @@
 # 📝 TaskFlow - Task Manager Application
 
-![TaskFlow Banner](https://via.placeholder.com/800x200/3b82f6/ffffff?text=TaskFlow+-+Manage+Your+Tasks+Efficiently)
-
 ## 🌟 About TaskFlow
 
 TaskFlow is a simple and intuitive task management application built with vanilla HTML, CSS, and JavaScript. This project is part of **GDG IGDTUW SnowScript Winter of Code 2025** and serves as a beginner-friendly project for students to learn and contribute to open source.
